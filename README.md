@@ -1,3 +1,0 @@
-# [Kaiju Solutions](https://kaijusolutions.ca "Kaiju Solutions")
-
-Your vision is monstrous. At Kaiju Solutions, we provide the tools to bring it to life. We specialize in developing advanced artificial intelligence, industrial simulation, and game development solutions. Whether you are creating the next blockbuster game, engineering a cutting-edge digital twin of a complex industrial process, or pioneering new frontiers in artificial intelligence, our robust and scalable technologies are designed to amplify your capabilities and help you achieve monumental results. Partner with us and unleash your monstrous potential.
